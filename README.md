@@ -1,16 +1,5 @@
 # newscast
 
-A new Flutter project.
+A basic news app that fetches data from openwather API 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![newscast](https://user-images.githubusercontent.com/80969540/147779859-ef164022-63aa-46d6-a441-da67ab8f50a5.png)
