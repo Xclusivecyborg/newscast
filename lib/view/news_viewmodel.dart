@@ -27,7 +27,7 @@ class NewsViewModel extends StateNotifier<NewsViewState> {
 
   void launchUrl(urlString) async {
     try {
-      await launch(urlString);
+      await canLaunchUrl(urlString);
     } catch (e) {
       rethrow;
     }
