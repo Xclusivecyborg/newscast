@@ -20,6 +20,7 @@ class Api {
       }
     } on DioError catch (e) {
       log.e(e.toString());
+      rethrow;
     }
   }
 }
